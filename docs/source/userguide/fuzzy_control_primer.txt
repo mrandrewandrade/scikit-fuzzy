@@ -33,7 +33,7 @@ relates to another.  These are expressed in terms of an IF-THEN statement;
 the IF part is called the **antecedent** and the THEN part is the
 **consequent**.  In the tiping example, one rule might be "IF the service
 was good THEN the tip will be good."  The exact math related to how
-a rule is used to calcualte the value of the consequent based on the value
+a rule is used to calculate the value of the consequent based on the value
 of the antecedent is outside the scope of this primer.
 
 
